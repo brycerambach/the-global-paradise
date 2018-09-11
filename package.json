@@ -1,0 +1,13 @@
+{
+  "name": "TGP",
+  "description": "A bot for TGP!",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "request": "2.81.0",
+  }
+ }
